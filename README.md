@@ -4,27 +4,28 @@ Hope this extension will be helpful!
 
 ## Highlights⭐⭐⭐🎈🎈🎈
 ## 1. A Fresh New Material Design 3 Look 🪄🪄🪄
+<img width="2822" height="1488" alt="703b5158-389a-43c7-8678-b388947f97f9" src="https://github.com/user-attachments/assets/2e5d769a-90b7-4f8e-9b85-9346fdfd9db7" />
 
 ## 2. Hover Preview 📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
 Update 0.2.0: You can now display multiple preview windows at once and drag them freely.
-<img width="1857" height="1365" alt="92bfee6e-30bc-4177-a1b7-ffbbab224861" src="https://github.com/user-attachments/assets/fecd15b7-eb5b-44f5-a7a4-d12a3d849113" />
+<img width="2207" height="1472" alt="a7547adf-bfa3-42c9-bb60-8b425bb6651a" src="https://github.com/user-attachments/assets/ee59c6e2-a244-449c-b30e-dc1ec733495a" />
 
 ## 3. Direct Author Access 🔍🔍🔍
 Hover over an author’s name to preview their Google Scholar profile. Click the preview to open the profile directly, with no need to search for it yourself.
-<img width="1896" height="1143" alt="9b1610f1-58af-462e-a220-fdd6c5abd87f" src="https://github.com/user-attachments/assets/fb398519-3315-4945-b565-8b63cb15ab9c" />
+<img width="849" height="1173" alt="9a53cdce-63be-4014-81e4-d0e3ccfe3fb0" src="https://github.com/user-attachments/assets/864e5ee4-0680-42e9-8b52-b0332fb79a58" />
 
 ## 4. Two-Page View📖📖📖
 Display two pages side by side for a more comfortable reading experience. 
-<img width="3828" height="1956" alt="e544f618-a1ef-4271-b43e-c17ad932097f" src="https://github.com/user-attachments/assets/255dcca4-b8cf-406e-8acb-d13dc2a91975" />
+<img width="3744" height="1926" alt="e78d612b-0e1d-424a-9459-aa88c6eeeab0" src="https://github.com/user-attachments/assets/37c9cf94-0312-43c7-9285-431b1bd1f50a" />
 
 ## 5. Keyword Highlight on Scrollbar🔭🔭🔭
 Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing you to quickly locate relevant sections throughout the document.
-<img width="3006" height="1470" alt="9a185960-a9c4-43be-88b1-389355c5ca9f" src="https://github.com/user-attachments/assets/7a39cdd3-40b0-4913-84c9-faa1d4a9212e" />
+<img width="66" height="656" alt="38796780-87ac-4247-b6e2-17aa6226a07b" src="https://github.com/user-attachments/assets/de95ce5e-272f-4f26-8985-eee2215d15e8" />
 
 ## 6. Drawing Tool🖌️🖌️🖌️
 Annotate PDF files freely with a built-in drawing tool.
-<img width="2181" height="966" alt="d01051a5-3d10-4eb7-a2e9-dc95e7ec5b9e" src="https://github.com/user-attachments/assets/04736c16-30fe-4aad-8d99-f3e69ad7cfc1" />
+<img width="1281" height="96" alt="be8b71c1-ea8f-48f5-bae9-2b13851ccd38" src="https://github.com/user-attachments/assets/ced9f10f-95c2-4c4f-aea7-f25107f4a9bf" />
 
 ## New Features Planed🆕🆕🆕
 Coming Soon!
